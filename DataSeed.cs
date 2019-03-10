@@ -117,14 +117,15 @@ namespace Avantage.Api
             for (int i = 1; i < n; i++)
             {
 
-                var randCustomerId = rand.Next(_ctx.Customers.Count());
+                var randCustomerId = rand.Next(1, _ctx.Customers.Count()-1);
                 var placed = Helpers.GetRandomOrderPlaced();
                 var completed = Helpers.GetRandomOrderCompleted(placed);
+                var customersList = _ctx.Customers.ToList();
 
                 orders.Add(new Order
                 {
                     Id = i,
-                    Customer = _ctx.Customers.First(c => c.Id == randCustomerId),
+                    Customer = customersList.First(c => c.Id == randCustomerId),
                     Total = Helpers.GetRandomOrderTotal(),
                     Placed = placed,
                     Completed = completed
