@@ -1,0 +1,14 @@
+/home/altrunox/Documents/AngularDashBoard/Avantage.Api/bin/Debug/netcoreapp2.2/Avantage.Api.deps.json
+/home/altrunox/Documents/AngularDashBoard/Avantage.Api/bin/Debug/netcoreapp2.2/Avantage.Api.runtimeconfig.json
+/home/altrunox/Documents/AngularDashBoard/Avantage.Api/bin/Debug/netcoreapp2.2/Avantage.Api.runtimeconfig.dev.json
+/home/altrunox/Documents/AngularDashBoard/Avantage.Api/bin/Debug/netcoreapp2.2/Avantage.Api.dll
+/home/altrunox/Documents/AngularDashBoard/Avantage.Api/bin/Debug/netcoreapp2.2/Avantage.Api.pdb
+/home/altrunox/Documents/AngularDashBoard/Avantage.Api/obj/Debug/netcoreapp2.2/Avantage.Api.csprojAssemblyReference.cache
+/home/altrunox/Documents/AngularDashBoard/Avantage.Api/obj/Debug/netcoreapp2.2/Avantage.Api.csproj.CoreCompileInputs.cache
+/home/altrunox/Documents/AngularDashBoard/Avantage.Api/obj/Debug/netcoreapp2.2/Avantage.Api.RazorAssemblyInfo.cache
+/home/altrunox/Documents/AngularDashBoard/Avantage.Api/obj/Debug/netcoreapp2.2/Avantage.Api.RazorAssemblyInfo.cs
+/home/altrunox/Documents/AngularDashBoard/Avantage.Api/obj/Debug/netcoreapp2.2/Avantage.Api.AssemblyInfoInputs.cache
+/home/altrunox/Documents/AngularDashBoard/Avantage.Api/obj/Debug/netcoreapp2.2/Avantage.Api.AssemblyInfo.cs
+/home/altrunox/Documents/AngularDashBoard/Avantage.Api/obj/Debug/netcoreapp2.2/Avantage.Api.RazorTargetAssemblyInfo.cache
+/home/altrunox/Documents/AngularDashBoard/Avantage.Api/obj/Debug/netcoreapp2.2/Avantage.Api.dll
+/home/altrunox/Documents/AngularDashBoard/Avantage.Api/obj/Debug/netcoreapp2.2/Avantage.Api.pdb
